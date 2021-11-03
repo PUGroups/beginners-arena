@@ -12,7 +12,7 @@ You can quickly make your first contribution in open-source and get a green squa
 - Fork the current repository you're on.
   - Don't know how to fork a repository? Refer to [**this article**](https://docs.github.com/es/get-started/quickstart/fork-a-repo).
 - Make a new branch
-  - Don't know how to make a branch? Refer to [**this article**](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
+  - Don't know how to make a branch? Refer to [**this article**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
 - Add your project in the `projects-list.md` file.
   - For example: if I want to add one of my projects, I would add it like this
 
